@@ -1,4 +1,4 @@
-# Model Context Protocol Server for Klingon placeholder text API
+# Model Context Protocol Server for Klingon Lorem Ipsum placeholder text
 
 This Model Context Protocol(MCP) server enables Large Language Models (LLMs) to perform to generated amount of placeholder text.
 A normal "REST"-like HTTP Endpoint with OpenAPI Spec, exists as a fallback.
